@@ -3,7 +3,7 @@
 
 A Streamlit-based e-commerce product recommendation system using content-based filtering and the API to simulate real-world product data and provide personalized product suggestions.
 
-[Live Demo](https://simhagoud.streamlit.app/)
+
 
 ## Table of Contents
 
@@ -14,9 +14,6 @@ A Streamlit-based e-commerce product recommendation system using content-based f
 - [Deployment](#deployment)
 - [Project Structure](#project-structure)
 - [How It Works](#how-it-works)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Features
 
@@ -57,12 +54,13 @@ To run the application locally:
 
 streamlit run app.py
 
-
 Then, open your web browser and go to `http://localhost:8501`.
 
 ## Deployment
 
 This application is deployed using Streamlit Sharing.
+
+[Live Demo](https://simhagoud.streamlit.app/)
 
 ## Project Structure
 
