@@ -1,7 +1,5 @@
 # E-commerce Product Recommender
 
-![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.0%2B-red)
 
 A Streamlit-based e-commerce product recommendation system using content-based filtering and the API to simulate real-world product data and provide personalized product suggestions.
 
@@ -74,7 +72,7 @@ This application is deployed using Streamlit Sharing.
 ## How It Works
 
 1. The user enters a search query for a product.
-2. The application fetches product data from the DummyJSON API based on the search query.
+2. The application fetches product data from the API based on the search query.
 3. The search results are displayed to the user.
 4. A content-based filtering algorithm is applied to generate recommendations based on the top search result.
 5. Recommended products are displayed along with their similarity scores.
