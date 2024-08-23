@@ -35,16 +35,17 @@ A Streamlit-based e-commerce product recommendation system using content-based f
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/ecommerce-recommender.git
+git clone https://github.com/simha-p/Product_Recommendation.git
+
 cd ecommerce-recommender
 
 
-2. Create a virtual environment:
+3. Create a virtual environment:
 python -m venv venv
 source venv/bin/activate  # On Windows, use venv\Scripts\activate
 
 
-3. Install the required packages:
+4. Install the required packages:
 pip install -r requirements.txt
 
 
