@@ -75,3 +75,9 @@ This application is deployed using Streamlit Sharing.
 3. The search results are displayed to the user.
 4. A content-based filtering algorithm is applied to generate recommendations based on the top search result.
 5. Recommended products are displayed along with their similarity scores.
+
+## Demo 
+
+[product.webm](https://github.com/user-attachments/assets/0163b790-2c86-4450-b88a-e0908f63c076)
+
+
